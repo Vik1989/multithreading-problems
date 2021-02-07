@@ -9,3 +9,5 @@ List of basic concepts covered:
 3. Non ReentrantLocks
 4. Reentrant locks
 5. Executors and ThreadPools
+
+Will move towards more advanced problems soon.
